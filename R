@@ -1,4 +1,0 @@
-nano README.MD
-#first Github Repository
-our objective
-*Get practice with git & Github
